@@ -14,7 +14,7 @@
 - 📫 Reach me on ...
 
 <!-- linkdin -->
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![An old rock in the desert](./images/Linkdin.svg "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/yarasi-ashokvardhana-reddy-33b560122/) &nbsp; &nbsp;  [![An old rock in the desert](./images/twitter.svg "Shiprock, New Mexico by Beau Rogers")](https://twitter.com/yavreddy1995) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![An old rock in the desert](./images/gmail.svg "Shiprock, New Mexico by Beau Rogers")](https://accounts.google.com/signin/v2/identifier?service=accountsettings&continue=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3Dsign_in_no_continue%26pli%3D1&ec=GAlAwAE&flowName=GlifWebSignIn&flowEntry=AddSession)
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![An old rock in the desert](./images/Linkdin.svg "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/yarasi-ashokvardhana-reddy-33b560122/) &nbsp; &nbsp; &nbsp;  [![An old rock in the desert](./images/twitter.svg "Shiprock, New Mexico by Beau Rogers")](https://twitter.com/yavreddy1995)  &nbsp; &nbsp; &nbsp; [![An old rock in the desert](./images/gmail.svg "Shiprock, New Mexico by Beau Rogers")](https://accounts.google.com/signin/v2/identifier?service=accountsettings&continue=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3Dsign_in_no_continue%26pli%3D1&ec=GAlAwAE&flowName=GlifWebSignIn&flowEntry=AddSession)
 
 
 <!---
