@@ -13,7 +13,7 @@
 
      <!-- ![Twitter](./images/twitter.svg) -->
 
-     <img width="50" height="50"  src="./images/linkdin.svg" >
+     <img width="50" height="50"  src="./images/Linkdin.svg" >
 
      <img width="50" height="50"  src="./images/twitter.svg" >
 
