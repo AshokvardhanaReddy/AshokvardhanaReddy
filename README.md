@@ -3,9 +3,11 @@
  - 🌱 Aspiring full-stack Web developer with knowledge in
 HTML, CSS, JavaScript and MERN stack.
 
-- 👀 
+- 👀  Flexible to work
+in an environment with morals and ethics.
 - 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Self-motivated
+and take responsibilities while working in a team.
 - 📫 How to reach me ...
 
 <!---
