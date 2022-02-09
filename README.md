@@ -14,9 +14,9 @@
      <!-- ![Twitter](./images/twitter.svg) -->
 
      <img width="50" height="50"  src="./images/Linkdin.svg" >
-
+<br>
      <img width="50" height="50"  src="./images/twitter.svg" >
-
+<br>
      <img width="50" height="50"  src="./images/gmail.svg" >
 <!---
 AshokvardhanaReddy/AshokvardhanaReddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
