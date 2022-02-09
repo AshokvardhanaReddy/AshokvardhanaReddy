@@ -13,9 +13,9 @@
 
      <!-- ![Twitter](./images/twitter.svg) -->
 
-     [<img width="50" height="50"  src="./images/linkdin.svg" >] (https://www.linkedin.com/in/yarasi-ashokvardhana-reddy-33b560122/)
+     [<img width="50" height="50"  src="./images/linkdin.svg" >] ("https://www.linkedin.com/in/yarasi-ashokvardhana-reddy-33b560122/")
 
-     <img width="50" height="50"  src="./images/twitter.svg" >
+     <img width="50" height="50"  src="./images/twitter.svg" title="Twitter">
 
      <a><img width="50" height="50"  src="./images/gmail.svg" ></a>
 <!---
