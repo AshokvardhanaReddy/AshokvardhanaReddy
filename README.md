@@ -13,11 +13,11 @@
 
      <!-- ![Twitter](./images/twitter.svg) -->
 
-     <img width="50" height="50"  src="./images/Linkdin.svg" >
+     <a src="https://www.linkedin.com/in/yarasi-ashokvardhana-reddy-33b560122/"> <img width="50" height="50"  src="./images/Linkdin.svg" > </a>
 
      <img width="50" height="50"  src="./images/twitter.svg" >
 
-     <img width="50" height="50"  src="./images/gmail.svg" >
+     <a><img width="50" height="50"  src="./images/gmail.svg" ></a>
 <!---
 AshokvardhanaReddy/AshokvardhanaReddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
