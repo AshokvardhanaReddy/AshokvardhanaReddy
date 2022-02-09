@@ -5,10 +5,11 @@ HTML, CSS, JavaScript and MERN stack.
 
 - 👀  Flexible to work
 in an environment with morals and ethics.
-- 
+
 - 💞️ Self-motivated
 and take responsibilities while working in a team.
-- 📫 How to reach me ...
+
+- 📫 Reach me on  ...
 
 <!---
 AshokvardhanaReddy/AshokvardhanaReddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
