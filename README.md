@@ -13,7 +13,7 @@
 
      <!-- ![Twitter](./images/twitter.svg) -->
 
-     <a src="https://www.linkedin.com/in/yarasi-ashokvardhana-reddy-33b560122/"> <img width="50" height="50"  src="./images/Linkdin.svg" > </a>
+     [<img width="50" height="50"  src="./images/linkdin.svg" >] (https://www.linkedin.com/in/yarasi-ashokvardhana-reddy-33b560122/)
 
      <img width="50" height="50"  src="./images/twitter.svg" >
 
