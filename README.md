@@ -18,6 +18,7 @@
      <img width="50" height="50"  src="./images/twitter.svg" title="Twitter">
 
      <a><img width="50" height="50"  src="./images/gmail.svg" ></a>
+     [ashok](https://www.linkedin.com/in/yarasi-ashokvardhana-reddy-33b560122/)
 <!---
 AshokvardhanaReddy/AshokvardhanaReddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
