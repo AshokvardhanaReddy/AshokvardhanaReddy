@@ -9,16 +9,19 @@
 - 💞️ Self-motivated
   and take responsibilities while working in a team.
 
+- 💞️ Apart from that, when I am free, I listen to songs, play video    games and play badminton.
+
 - 📫 Reach me on ...
 
-     <!-- ![Twitter](./images/twitter.svg) -->
+<!-- linkdin -->
+[![An old rock in the desert](./images/Linkdin.svg "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/yarasi-ashokvardhana-reddy-33b560122/)
 
-     [<img width="50" height="50"  src="./images/linkdin.svg" >] ("https://www.linkedin.com/in/yarasi-ashokvardhana-reddy-33b560122/")
+<!-- Twitter -->
+[![An old rock in the desert](./images/twitter.svg "Shiprock, New Mexico by Beau Rogers")](https://twitter.com/yavreddy1995)
+     
+<!-- Gmail -->
+[![An old rock in the desert](./images/gmail.svg "Shiprock, New Mexico by Beau Rogers")](https://accounts.google.com/signin/v2/identifier?service=accountsettings&continue=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3Dsign_in_no_continue%26pli%3D1&ec=GAlAwAE&flowName=GlifWebSignIn&flowEntry=AddSession)
 
-     <img width="50" height="50"  src="./images/twitter.svg" title="Twitter"><a href="https://www.linkedin.com/in/yarasi-ashokvardhana-reddy-33b560122/"></a></img>
-
-     <a><img width="50" height="50"  src="./images/gmail.svg" ></a>
-     [ashok](https://www.linkedin.com/in/yarasi-ashokvardhana-reddy-33b560122/)
 
 <!---
 AshokvardhanaReddy/AshokvardhanaReddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
