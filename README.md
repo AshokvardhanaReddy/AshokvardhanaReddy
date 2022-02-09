@@ -10,6 +10,9 @@ in an environment with morals and ethics.
 and take responsibilities while working in a team.
 
 - 📫 Reach me on  ...
+     
+     <!-- ![Twitter](./images/twitter.svg) -->
+     <img width="80" height="80"  src="./images/twitter.svg" >
 
 <!---
 AshokvardhanaReddy/AshokvardhanaReddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
