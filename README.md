@@ -17,7 +17,13 @@ At Masai School, I learnt technical skills such as HTML, CSS, JavaScript, MongoD
 ##### Bodywise Clone @MasaiSchool
 
 # Skills
-
+`HTML`     
+`CSS`
+`JavaScript`
+`MongoDB`
+`Express`
+`React`
+`Node.JS`
 
 - 📫 Reach me on ...
 
