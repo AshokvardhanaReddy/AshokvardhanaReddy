@@ -8,10 +8,9 @@ After my graduation, I wanted to prepare for bank exams. So I Joined Mahindra Ba
 
 After Corona, I worked as an accountant at Y V Reddy & Associates from July 2022 to December 2024. Later, I joined a MSME (Sri Revanth frozen foods) as an accountant in January 2024.
 
-While working as an accountant, I started learning HTML, CSS, and JavaScript from YouTube. In August, I decided to learn front-end development and quit the job. Then I started learning React.
+While working as an accountant, I started learning HTML, CSS, and JavaScript from YouTube. In August 2024, I decided to learn front-end development and quit the job. Then I started learning React.
 
 # Education
-##### Web Development ( 2021 - Present ) @MasaiSchool
 ##### B.Com ( Computers ) ( 2013 - 2016 ) @Sri Nagarjuna Degree College
 
 # Projects
